@@ -22,7 +22,7 @@ O sistema é uma solução especializada desenvolvida para simplificar e automat
 <h3 align="center">🎬 Demonstração do Projeto</h3>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1EK0UU4yL3YpXincFJwDuDOFQXAhx7g_r/view?usp=drive_link">
+  <a href="https://docs.google.com/videos/d/16-_glOdvIqKh_5Lg30_74l8FV71sejLzyhg19aF_Ook/edit?scene=id.g71e0c069_1_0#scene=id.g71e0c069_1_0">
     <img src="https://img.icons8.com/fluency/240/play-button-circled.png" alt="Clique para assistir à demonstração" />
   </a>
 </p>
